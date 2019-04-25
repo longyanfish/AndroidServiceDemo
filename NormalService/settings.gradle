@@ -1,0 +1,1 @@
+include ':app', ':service', ':bindservice', ':notificationservice', ':ipc_service_server', ':ipc_service_client', ':AIDL_IPC_Service', ':AIDL_IPC_Client'
